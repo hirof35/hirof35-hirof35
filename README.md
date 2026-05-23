@@ -132,10 +132,7 @@ AI時代の開発者育成
 
 教育、災害対策、ゲーム、シミュレーションなど、
 人の可能性を広げるアプリを作り続けています。
-<img width="1918" height="916" alt="スクリーンショット 2026-05-21 045558" src="https://github.com/user-attachments/assets/7622bc84-7ef1-45a3-b3d5-5a1eb1aee3fb" />
-
-
-
+<img width="1919" height="915" alt="スクリーンショット 2026-05-24 021042" src="https://github.com/user-attachments/assets/e75d36fb-f304-4937-8b2a-37da9407e445" />
 📫 Contact
 GitHub: https://github.com/hirof35
 
