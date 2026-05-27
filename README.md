@@ -132,8 +132,8 @@ AI時代の開発者育成
 
 教育、災害対策、ゲーム、シミュレーションなど、
 人の可能性を広げるアプリを作り続けています。
-<img width="1919" height="915" alt="スクリーンショット 2026-05-24 021042" src="https://github.com/user-attachments/assets/e75d36fb-f304-4937-8b2a-37da9407e445" />
-📫 Contact
+<img width="1919" height="922" alt="スクリーンショット 2026-05-27 214107" src="https://github.com/user-attachments/assets/f07d1060-1caf-48b6-828e-152be954db18" />
+
 GitHub: https://github.com/hirof35
 
 ōsugi hiroshi （ Osugi Hiroshi ） — Structural Engineer kakeru AI Collaborative Developer kōzō de sekai o yomi , AI to heiretsu de kaihatsu suru enjinia ta gengo ・ ta janru no kaihatsu o kōsoku ni okonai , 「 mokuteki → kōzō → jissō 」 no nagare o AI to kyōyū shi nagara , apuri・gēmu・shimyurēshon o tsugitsugi ni katachi ni shi te i masu . AI o “ gaibu sureddo / gaibu CPU ” toshite atsukai , ningen to AI no heiretsu shori de kaihatsu sokudo to hinshitsu o saidai ka suru no ga tsuyo mi desu . ? ? Core Identity Structural Scientist / kōzō kagaku enjinia AI Collaborative Developer （ AI kyōdō kaihatsu-sha ） Multi - language Full - stack Developer Simulation / Game / Web App Creator Air Self - Defense Force Veteran （ moto ・ kōkū jieitai ） ? ? Philosophy — kaihatsu no OS mokuteki ga kōzō o kime , kōzō ga jissō o kimeru . jissō wa kōzō no kage de ari , kōzō wa mokuteki no kage de aru . mokuteki no chūshō ka kōzō no bunkai jōtai sen'i to reigai shori jōhō no inga moderu ka AI to no heiretsu kaihatsu rūpu kono 5 tsu o jiku ni , dono gengo de mo onaji kōzō o saigen deki masu . ? ? ️ 🛠️ Tech Stack & Quantified Skills (Findy Skill Score 72.0)
